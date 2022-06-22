@@ -1,0 +1,25 @@
+body { color: purple }
+body { background-color: #d8da3d }
+
+#wrap{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+#namelist{
+    width: 700px;
+  }
+
+#resultlist{
+    width: 700px;
+  }
+
+  #div_input{
+    background-color: red;
+    
+  }
+
+  #div_button{
+    background-color: rgb(21, 0, 255);
+  }
